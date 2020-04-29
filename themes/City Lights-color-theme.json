@@ -858,6 +858,27 @@
       }
     },
     {
+      "name": "Inserted line markup",
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#8bd49c"
+      }
+    },
+    {
+      "name": "Deleted line markup",
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#e27e8d"
+      }
+    },
+    {
+      "name": "Changed line markup",
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#ebbf83"
+      }
+    },
+    {
       "name": "Italics",
       "scope": [
         "comment",
