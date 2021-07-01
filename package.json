@@ -9,7 +9,7 @@
     "icon": "icon.png",
     "repository": "https://github.com/emaballarin/city-lights-syntax-vsc",
     "engines": {
-        "vscode": "^1.17.0"
+        "vscode": "^1.57.0"
     },
     "categories": [
         "Themes"
